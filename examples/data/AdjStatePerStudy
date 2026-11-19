@@ -1,0 +1,57 @@
+##TITLE=Parameter List, ParaVision 7.0.0
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=nmrsu
+$$ 2025-09-02 12:46:22.798 +0200  nmrsu@CZC046BHLY
+$$ /opt/nmrdata/data/20250902_101706_3D_Multi_Comp_pH_Sequence_Comparison_WEB1_0_2_1/AdjStatePerStudy
+$$ process /opt/PV-7.0.0/prog/mod/pipe
+##$AdjStudyStateCompleted=Yes
+##$AdjStudyStateResetNdx=3
+##$AdjStudyStateAdjName=( 9, 128 )
+<FREQ_Standard> <SHIM_Study> <TRANSM_Standard> <FREQ_Standard> <SHIM_Study> 
+<TRANSM_Standard> <B0Map_Standard> <SHIM_Study> <FREQ_Standard>
+##$AdjStudyStateCategory=( 9 )
+FREQ SHIM TRANSM FREQ SHIM TRANSM OTHERADJ SHIM FREQ
+##$AdjStudyStateTime=( 9 )
+<2025-09-02T10:17:18,100+0200> <2025-09-02T10:17:29,074+0200> 
+<2025-09-02T10:17:56,340+0200> <2025-09-02T10:28:27,533+0200> 
+<2025-09-02T10:28:37,980+0200> <2025-09-02T10:29:04,643+0200> 
+<2025-09-02T10:41:59,103+0200> <2025-09-02T11:21:32,495+0200> 
+<2025-09-02T11:31:00,465+0200>
+##$AdjStudyStateExpno=( 9 )
+1 1 1 2 2 2 15 900000 900000
+##$AdjStudyStateState=( 9 )
+adj_successful adj_successful adj_successful adj_successful adj_successful 
+adj_successful adj_successful adj_successful adj_successful
+##$AdjStudyStateResultId=( 9, 65 )
+<2.16.756.5.5.100.8323328.3284826.1756801038.6> 
+<2.16.756.5.5.100.8323328.3284826.1756801038.7> 
+<2.16.756.5.5.100.8323328.3284826.1756801038.8> 
+<2.16.756.5.5.100.8323328.3292439.1756801707.9> 
+<2.16.756.5.5.100.8323328.3292439.1756801707.10> 
+<2.16.756.5.5.100.8323328.3292439.1756801707.11> 
+<2.16.756.5.5.100.8323328.3303392.1756802507.12> 
+<2.16.756.5.5.100.8323328.3346410.1756804892.15> 
+<2.16.756.5.5.100.8323328.3358663.1756805460.14>
+##$AdjStudyStateMethod=( 9, 128 )
+<Bruker:AdjSf> <Bruker:AdjShim> <Bruker:AdjRefPow> <Bruker:AdjSf> 
+<Bruker:AdjShim> <Bruker:AdjRefPow> <Bruker:FieldMap> <Bruker:AdjShim> 
+<Bruker:AdjSf>
+##$AdjStudyStateMethodContext=( 9, 1024 )
+<> <> <> <> <> <> <> <> <>
+##$AdjStudyStateHwChainNdxs=( 9 )
+(0, 0) (0, 1) (1, 1) (2, 0) (2, 1) (3, 1) (4, 1) (5, 1) (6, 0)
+##$AdjStudyStateHwChains=( 6 )
+((SHIM_CHAIN, -1), <Agilent_205_120_HD (MAGNEX SGRAD205/A2B TU Munich)
+.295323.no>) ((TRANS_CHAIN, -2), 
+<2.16.756.5.5.100.8323328.2632292.1738315128.38 -2 2 2 2 1 3 1H  0>) 
+((SHIM_CHAIN, -1), <Agilent_205_120_HD (MAGNEX SGRAD205/A2B TU Munich)
+.295323.no>) ((TRANS_CHAIN, -2), 
+<2.16.756.5.5.100.8323328.2632292.1738315128.38 -2 2 2 2 1 3 1H  0>) 
+((SHIM_CHAIN, -1), <Agilent_205_120_HD (MAGNEX SGRAD205/A2B TU Munich)
+.295323.no>) ((SHIM_CHAIN, -1), <Agilent_205_120_HD (MAGNEX SGRAD205/A2B TU 
+Munich).295323.no>)
+##$AdjStudyListConfigTime=1734093635
+##END=
+$$ File finished by PARX at 2025-09-02 12:46:22.799 +0200

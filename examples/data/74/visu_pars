@@ -1,0 +1,199 @@
+##TITLE=Parameter List, ParaVision 7.0.0
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=nmrsu
+$$ 2025-09-02 12:59:18.556 +0200  nmrsu@CZC046BHLY
+$$ /opt/nmrdata/data/20250902_101706_3D_Multi_Comp_pH_Sequence_Comparison_WEB1_0_2_1/74/visu_pars
+$$ process /opt/PV-7.0.0/prog/mod/acq_out
+##$VisuVersion=3
+##$VisuUid=( 65 )
+<2.16.756.5.5.100.8323328.3435813.1756810758.1>
+##$VisuCreator=( 65 )
+<ParaVision>
+##$VisuCreatorVersion=( 195 )
+<7.0.0>
+##$VisuCreationDate=<2025-09-02T12:59:18,508+0200>
+##$VisuInstanceType=STANDARD_INSTANCE
+##$VisuInstanceModality=( 65 )
+<MR>
+##$VisuCoreFrameCount=33
+##$VisuCoreDim=2
+##$VisuCoreSize=( 2 )
+180 200
+##$VisuCoreDimDesc=( 2 )
+spatial spatial
+##$VisuCoreExtent=( 2 )
+54 60
+##$VisuCoreFrameThickness=( 1 )
+1
+##$VisuCoreUnits=( 2, 65 )
+<mm> <mm>
+##$VisuCoreOrientation=( 33, 9 )
+1 0 0 0 0 -1 0 1 0 1 0 0 0 0 -1 0 1 0 1 0 0 0 0 -1 0 1 0 1 0 0 0 0 -1 0 1 0 1 
+0 0 0 0 -1 0 1 0 1 0 0 0 0 -1 0 1 0 1 0 0 0 0 -1 0 1 0 1 0 0 0 0 -1 0 1 0 1 0 
+0 0 0 -1 0 1 0 1 0 0 0 0 -1 0 1 0 1 0 0 0 0 -1 0 1 0 1 0 0 0 0 -1 0 1 0 1 0 0 
+0 0 -1 0 1 0 1 0 0 0 0 -1 0 1 0 1 0 0 0 0 -1 0 1 0 1 0 0 0 0 -1 0 1 0 1 0 0 0 
+0 -1 0 1 0 1 0 0 0 0 -1 0 1 0 1 0 0 0 0 -1 0 1 0 1 0 0 0 0 -1 0 1 0 1 0 0 0 0 
+-1 0 1 0 1 0 0 0 0 -1 0 1 0 1 0 0 0 0 -1 0 1 0 1 0 0 0 0 -1 0 1 0 1 0 0 0 0 
+-1 0 1 0 1 0 0 0 0 -1 0 1 0 1 0 0 0 0 -1 0 1 0 1 0 0 0 0 -1 0 1 0 1 0 0 0 0 
+-1 0 1 0 1 0 0 0 0 -1 0 1 0 1 0 0 0 0 -1 0 1 0 1 0 0 0 0 -1 0 1 0 1 0 0 0 0 
+-1 0 1 0
+##$VisuCorePosition=( 33, 3 )
+-27 16 30 -27 15 30 -27 14 30 -27 13 30 -27 12 30 -27 11 30 -27 10 30 -27 9 
+30 -27 8 30 -27 7 30 -27 6 30 -27 5 30 -27 4 30 -27 3 30 -27 2 30 -27 1 30 
+-27 0 30 -27 -1 30 -27 -2 30 -27 -3 30 -27 -4 30 -27 -5 30 -27 -6 30 -27 -7 
+30 -27 -8 30 -27 -9 30 -27 -10 30 -27 -11 30 -27 -12 30 -27 -13 30 -27 -14 30 
+-27 -15 30 -27 -16 30
+##$VisuCoreDataMin=( 33 )
+1.33957205329488 2.47528583037582 2.3003879555132 6.05195102310057 
+3.31097594781155 3.13877319210176 0.903731677433608 2.36562000653851 
+3.3546762815386 8.15894093396653 3.10258109554139 5.33647265452731 
+4.98109942365653 1.99421000067835 1.56888372775127 10.4113535612066 
+12.5579649358707 11.4184054977619 7.22762786073814 7.35079823322084 
+13.6503119702768 13.2249362893022 14.3853390687201 14.1251738161502 
+4.39160935572712 19.7755454959233 3.48090690109965 5.12365462837415 
+10.4023319520158 3.20231193381292 18.6853730025209 16.7426196606253 
+8.66783766618905
+##$VisuCoreDataMax=( 33 )
+7133.50653423343 19479.4389049214 20369.5823568795 21264.4896790755 
+20568.012344548 17524.9997409779 12804.2923658712 12634.2830941736 
+18718.159502124 32766.5 27919.4254237559 25391.5003931985 14237.114776526 
+18186.1562565233 15405.3531558339 12769.2992765834 15280.1536525629 
+22514.7870319803 19479.6086610542 19284.4482487168 17138.3501566497 
+17199.0584018987 14392.898748969 12318.4065618745 12543.0266772764 
+12520.2341630681 12715.2255691974 12963.8875129246 16274.6316162297 
+15168.5560909804 14299.0108488738 11663.514849173 9226.11021413463
+##$VisuCoreDataOffs=( 33 )
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+##$VisuCoreDataSlope=( 33 )
+0.00290000797395032 0.00290000797395032 0.00290000797395032 
+0.00290000797395032 0.00290000797395032 0.00290000797395032 
+0.00290000797395032 0.00290000797395032 0.00290000797395032 
+0.00290000797395032 0.00290000797395032 0.00290000797395032 
+0.00290000797395032 0.00290000797395032 0.00290000797395032 
+0.00290000797395032 0.00290000797395032 0.00290000797395032 
+0.00290000797395032 0.00290000797395032 0.00290000797395032 
+0.00290000797395032 0.00290000797395032 0.00290000797395032 
+0.00290000797395032 0.00290000797395032 0.00290000797395032 
+0.00290000797395032 0.00290000797395032 0.00290000797395032 
+0.00290000797395032 0.00290000797395032 0.00290000797395032
+##$VisuCoreFrameType=( 1 )
+MAGNITUDE_IMAGE
+##$VisuCoreSlicePacksDef=(0, 1)
+##$VisuCoreSlicePacksSlices=( 1 )
+(0, 33)
+##$VisuCoreSlicePacksSliceDist=( 1 )
+1
+##$VisuCoreWordType=_16BIT_SGN_INT
+##$VisuCoreByteOrder=littleEndian
+##$VisuFGOrderDescDim=1
+##$VisuFGOrderDesc=( 1 )
+(33, <FG_SLICE>, <>, 0, 2)
+##$VisuGroupDepVals=( 2 )
+(<VisuCoreOrientation>, 0) (<VisuCorePosition>, 0)
+##$VisuSubjectName=( 65 )
+<WEB1-01267>
+##$VisuSubjectId=( 65 )
+<WEB1-01267>
+##$VisuSubjectUid=( 65 )
+<2.16.756.5.5.100.8323328.1556306.1756799141.159>
+##$VisuSubjectInstanceCreationDate=(1756799141, 3, 120)
+##$VisuSubjectBirthDate=( 9 )
+<20250715>
+##$VisuSubjectSex=UNKNOWN
+##$VisuSubjectType=Quadruped
+##$VisuStudyUid=( 65 )
+<2.16.756.5.5.100.8323328.1556306.1756801026.192>
+##$VisuStudyDate=<2025-09-02T10:17:06,211+0200>
+##$VisuStudyId=( 65 )
+<3D_Multi_Comp_pH_Sequence_Comparison>
+##$VisuStudyNumber=1
+##$VisuSubjectWeight=0.001
+##$VisuStudyReferringPhysician=( 65 )
+<nmrsu>
+##$VisuStudyDescription=( 2048 )
+<\
+>
+##$VisuExperimentNumber=74
+##$VisuProcessingNumber=1
+##$VisuSeriesDate=<2025-09-02T12:59:18,508+0200>
+##$VisuSubjectPosition=Head_Prone
+##$VisuSeriesTypeId=( 65 )
+<ACQ_BRUKER_PVM>
+##$VisuSeriesComment=( 65 )
+<T2 Cor for Umpire HighRes FOVs>
+##$VisuCoilReceiveName=( 65 )
+<RAPID VXQSHQS070>
+##$VisuCoilReceiveManufacturer=( 65 )
+<RAPID>
+##$VisuCoilReceiveType=VOLUME_COIL
+##$VisuCoilReceiveIsQuadrature=Yes
+##$VisuCoilTransmitName=( 65 )
+<RAPID VXQSHQS070>
+##$VisuCoilTransmitManufacturer=( 65 )
+<RAPID>
+##$VisuCoilTransmitType=VOLUME_COIL
+##$VisuCoilTransmitIsQuadrature=Yes
+##$VisuManufacturer=( 65 )
+<Bruker BioSpin MRI GmbH>
+##$VisuAcqSoftwareVersion=( 65 )
+<PV-7.0.0>
+##$VisuInstitution=( 65 )
+<Technische Universitaet Muenchen>
+##$VisuStation=( 65 )
+<BioSpec 70/30>
+##$VisuSystemOrderNumber=( 65 )
+<10240415>
+##$VisuAcqDate=<2025-09-02T12:54:13,022+0200>
+##$VisuAcqEchoTrainLength=12
+##$VisuAcqSequenceName=( 40 )
+<Bruker:RARE>
+##$VisuAcqNumberOfAverages=5
+##$VisuAcqImagingFrequency=300.220738238302
+##$VisuAcqImagedNucleus=( 8 )
+<1H>
+##$VisuAcqRepetitionTime=( 1 )
+4000
+##$VisuAcqPhaseEncSteps=180
+##$VisuAcqPixelBandwidth=500
+##$VisuAcqFlipAngle=180
+##$VisuAcqSize=( 2 )
+180 200
+##$VisuAcqImageSizeAccellerated=No
+##$VisuAcqGradEncoding=( 2 )
+phase_enc read_enc
+##$VisuAcqEchoTime=( 1 )
+40
+##$VisuAcquisitionProtocol=( 65 )
+<T2_TurboRARE>
+##$VisuAcqScanTime=300000
+##$VisuAcqAntiAlias=( 2 )
+1 1
+##$VisuAcqEchoSequenceType=Both
+##$VisuAcqSpinsVelocityEncoded=No
+##$VisuAcqHasTimeOfFlightContrast=No
+##$VisuAcqIsEpiSequence=No
+##$VisuAcqSpectralSuppression=FatSuppression
+##$VisuAcqKSpaceTraversal=RectilinearTraversal
+##$VisuAcqEncodingOrder=( 2 )
+LinearEncoding LinearEncoding
+##$VisuAcqKSpaceTrajectoryCnt=1
+##$VisuAcqKSpaceFiltering=( 2 )
+NO_WDW NO_WDW
+##$VisuAcqFlowCompensation=FlowNone
+##$VisuAcqSpoiling=GradientSpoiled
+##$VisuAcqSaturation=( 3 )
+(FovSaturation, 4, -1 -0 0, 32.1221 0 -0) (FovSaturation, 4, -1 -0 0, 
+-32.1221 -0 0) (FovSaturation, 5.55801, -6.12323399573677e-17 -1 
+-3.74939945665464e-33, 1.29125533855298e-15 21.0878 7.90665858620417e-32)
+##$VisuAcqPartialFourier=( 2 )
+1 1
+##$VisuAcqParallelReductionFactor=( 2 )
+1 1
+##$VisuAcqMagnetizationTransfer=No
+##$VisuAcqBloodSignalNulling=No
+##$VisuCardiacSynchUsed=No
+##$VisuRespSynchUsed=No
+##END=
+$$ File finished by PARX at 2025-09-02 12:59:18.557 +0200

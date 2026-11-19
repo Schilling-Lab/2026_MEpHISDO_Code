@@ -1,0 +1,160 @@
+Map:  Study 20250902_101706_3D_Multi_Comp_pH_Sequence_Comparison_WEB1_0_2_1
+Expno: 15 Procno: 1 ID: 5
+Shim Volume: 
+Shape Cylinder (in) 
+Extents / mm
+1 : 41.6553
+2 : 20.2725
+3 : 35.289
+Total pixels          : 127832 in volume 23215
+Number of field values: 18493
+Shim volume:  23404.9 ul
+Pixel volume: 1 ul
+Field values: 18493
+Old values:   :   
+---------------------------------------------------
+Mean -9.40936 +- 99.1495 Hz
+Min  -512.696  Max 603.705 Hz
+---------------------------------------------------
+New values (regularized):   
+---------------------------------------------------
+Mean -0.152272 +- 74.6182 Hz
+Min  -385.839  Max 500.518 Hz
+---------------------------------------------------
+B0     = 26.7599
+       Z 	-0.0919623 A	Max:	    2.95 -3.11 %
+       X 	0.00465625 A	Max:	 3.10526 0.15 %
+       Y 	0.15198 A	Max:	 3.04124 5 %
+      Z2 	-0.0948073 A	Max:	       4 -2.36 %
+      ZX 	0.0681169 A	Max:	       5 1.36 %
+      ZY 	0.0333606 A	Max:	       5 0.67 %
+     2XY 	0.0332132 A	Max:	       4 0.83 %
+   X2-Y2 	0.160318 A	Max:	       4 4.01 %
+SysInfo_ShimState:
+"Agilent_205_120_HD (MAGNEX SGRAD205/A2B TU Munich).295323.no"
+SysInfo_ShimNSPS
+1
+SysInfoShimCurrConstrained
+Total current for SPS 1 :20 A
+Shims on SPS 1
+Z2 ZX ZY 2XY X2-Y2 
+Total Shims on SPS 1 : 5
+SysInfo_RawShims
+Coil 1
+  Name         : Z0
+  ID           : 0
+  Max DAC val  : 32760 HWU
+  Max Current  : 0 A
+  DAC scale    : 0 A/HWU
+  Coefficients : Z0 term 2440.81Hz/cm^0
+Coil 2
+  Name         : Z
+  ID           : 1
+  Max DAC val  : 32767 HWU
+  Max Current  : 2.95 A
+  DAC scale    : 9.00296e-05 A/HWU
+  Coefficients : Z term 2507.5Hz/cm^1
+Coil 3
+  Name         : Z2
+  ID           : 2
+  Max DAC val  : 26208 HWU
+  Max Current  : 4 A
+  DAC scale    : 0.000152625 A/HWU
+  Coefficients : Z2 term 1492Hz/cm^2
+Coil 4
+  Name         : X
+  ID           : 5
+  Max DAC val  : 32767 HWU
+  Max Current  : 3.10526 A
+  DAC scale    : 9.4768e-05 A/HWU
+  Coefficients : X term 2639.47Hz/cm^1
+Coil 5
+  Name         : Y
+  ID           : 6
+  Max DAC val  : 32767 HWU
+  Max Current  : 3.04124 A
+  DAC scale    : 9.2814e-05 A/HWU
+  Coefficients : Y term 2585.05Hz/cm^1
+Coil 6
+  Name         : ZX
+  ID           : 7
+  Max DAC val  : 32760 HWU
+  Max Current  : 5 A
+  DAC scale    : 0.000152625 A/HWU
+  Coefficients : ZX term 735Hz/cm^2
+Coil 7
+  Name         : ZY
+  ID           : 8
+  Max DAC val  : 32760 HWU
+  Max Current  : 5 A
+  DAC scale    : 0.000152625 A/HWU
+  Coefficients : ZY term 735Hz/cm^2
+Coil 8
+  Name         : 2XY
+  ID           : 9
+  Max DAC val  : 26208 HWU
+  Max Current  : 4 A
+  DAC scale    : 0.000152625 A/HWU
+  Coefficients : 2XY term 200Hz/cm^2
+Coil 9
+  Name         : X2-Y2
+  ID           : 10
+  Max DAC val  : 26208 HWU
+  Max Current  : 4 A
+  DAC scale    : 0.000152625 A/HWU
+  Coefficients : X2-Y2 term 200Hz/cm^2
+SysInfo_ShimFunctions
+Function 1
+  Name          : Z0
+  ID            : 0
+  Max Func val  : 32760 HWU
+  Max (virt)Curr: 1 A
+  Coefficients  : Z0 term 2440.81Hz/cm^0
+Function 2
+  Name          : Z
+  ID            : 1
+  Max Func val  : 32760 HWU
+  Max (virt)Curr: 1 A
+  Coefficients  : Z term 2507.5Hz/cm^1
+Function 3
+  Name          : Z2
+  ID            : 2
+  Max Func val  : 32760 HWU
+  Max (virt)Curr: 1 A
+  Coefficients  : Z2 term 1492Hz/cm^2
+Function 4
+  Name          : X
+  ID            : 5
+  Max Func val  : 32760 HWU
+  Max (virt)Curr: 1 A
+  Coefficients  : X term 2639.47Hz/cm^1
+Function 5
+  Name          : Y
+  ID            : 6
+  Max Func val  : 32760 HWU
+  Max (virt)Curr: 1 A
+  Coefficients  : Y term 2585.05Hz/cm^1
+Function 6
+  Name          : ZX
+  ID            : 7
+  Max Func val  : 32760 HWU
+  Max (virt)Curr: 1 A
+  Coefficients  : ZX term 735Hz/cm^2
+Function 7
+  Name          : ZY
+  ID            : 8
+  Max Func val  : 32760 HWU
+  Max (virt)Curr: 1 A
+  Coefficients  : ZY term 735Hz/cm^2
+Function 8
+  Name          : 2XY
+  ID            : 9
+  Max Func val  : 32760 HWU
+  Max (virt)Curr: 1 A
+  Coefficients  : 2XY term 200Hz/cm^2
+Function 9
+  Name          : X2-Y2
+  ID            : 10
+  Max Func val  : 32760 HWU
+  Max (virt)Curr: 1 A
+  Coefficients  : X2-Y2 term 200Hz/cm^2

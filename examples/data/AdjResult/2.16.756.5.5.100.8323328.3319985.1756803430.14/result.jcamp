@@ -1,0 +1,23 @@
+##TITLE=Parameter List, ParaVision 7.0.0
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=nmrsu
+$$ 2025-09-02 10:57:22.100 +0200  nmrsu@CZC046BHLY
+$$ /opt/nmrdata/data/20250902_101706_3D_Multi_Comp_pH_Sequence_Comparison_WEB1_0_2_1/AdjResult/2.16.756.5.5.100.8323328.3319985.1756803430.14/result.jcamp
+$$ process /opt/PV-7.0.0/prog/mod/pipe
+##$PVM_FrqAdj1H=300.22069174671
+##$PVM_FrqAdj1HPpm=4.7
+##$PVM_NucleiPpmRef=( 20 )
+(<13C>, 0) (<2H>, 16.0431626710252) (<none>, 0) (<none>, 0) (<none>, 0) 
+(<none>, 0) (<none>, 0) (<none>, 0) (<none>, 0) (<none>, 0) (<none>, 0) 
+(<none>, 0) (<none>, 0) (<none>, 0) (<none>, 0) (<none>, 0) (<none>, 0) 
+(<none>, 0) (<none>, 0) (<none>, 0)
+##$PVM_NAdjShimsets=1
+##$PVM_AdjShimsets=( 1 )
+(0, -1688, -1044, 0, 0, 36, 1510, 793, 816, 384, 1171, 0, 0, 0, 0, 0, 0, 0, 0,
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
+##$PVM_AdjActShimset=(0, -1688, -835, 0, 0, 36, 1510, 793, 816, 307, 937, 0, 0,
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
+##END=
+$$ File finished by PARX at 2025-09-02 10:57:22.100 +0200

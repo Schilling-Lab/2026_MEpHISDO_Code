@@ -1,0 +1,39 @@
+LSSU_Regularization
+===================
+Nshims: 9 Npix: 12730
+Singular values: 
+Shim Shim MatrixSD Matrix
+  1    93203.4    4.34859
+  2    77863.1  0.0367971
+  3    62969.1          0
+  4    44427.1          0
+  5    33112.8          0
+  6    18854.9          0
+  7    12300.5          0
+  8    11945.3          0
+  9    57.5016          0
+Estimated Rank: 9
+LSSU_Regularization step 2 residual condition
+Eigenvalues:
+Shim Shim Matrix Nullspace SD
+  1    93203.4    8.42913
+  2    77863.1          0
+  3    62969.1          0
+  4    44427.1          0
+  5    33112.8          0
+  6    18854.9          0
+  7    12300.5          0
+  8    11945.3          0
+  9    57.5016          0
+New rank: 9 old: 9
+LSSU_Regularization: final rank: 9
+Length of current vector: 35.8906
+  1   8.69e+09      -35.9
+  2   6.06e+09      0.104
+  3   3.97e+09   -0.00817
+  4   1.97e+09     -0.154
+  5    1.1e+09      0.113
+  6   3.56e+08    -0.0985
+  7   1.51e+08    -0.0591
+  8   1.43e+08    -0.0483
+  9   3.38e+03     -0.154
